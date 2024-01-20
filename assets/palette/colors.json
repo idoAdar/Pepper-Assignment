@@ -1,0 +1,13 @@
+{
+  "primary": "#232873",
+  "disable": "#F0F0F1",
+  "white": "#FFFFFF",
+  "warning": "#CD2026",
+  "offline": "#BDBFD5",
+  "light": "#E9E9F1",
+  "transparent": "#ffffff00",
+  "greyish": "#6B6E77",
+  "active": "#06D79D",
+  "black": "#000000",
+  "background": "#F9F9F9"
+}
